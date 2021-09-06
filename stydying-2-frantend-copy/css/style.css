@@ -1,0 +1,57 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url(https://pngimg.com/uploads/world_map/world_map_PNG28.png);
+    background-size: cover;
+}
+
+.SaverOfTheWorld{
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 30px;
+    margin: 0px 25% 0px 30%;
+    padding: 10px;
+}
+.MAP{
+display: flex;
+flex-direction: row;
+}
+.MAP1 {
+    height: 50px;
+    width: 70px;
+    margin: 0px 2px 0px 2px;
+}
+.pandemicStart{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 34px 0px 0px 0px;
+    padding-left: 10px;
+}
+.FYI{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 34px 0px 0px 0px;
+    padding-left: 10px;
+}
+.pandemicStartMap{
+    padding: 10px;
+    font-style: normal;
+    font-size: 20px;
+}
+.RESULTS{
+    display: flex;
+    flex-direction: row;
+}
+.RESULTSFYI{
+    display: flex;
+    flex-direction: column;
+}
+.FYILINK{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 34px 0px 0px 0px;
+    padding-left: 11px;
+}
